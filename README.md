@@ -14,7 +14,7 @@ I am a MERN Stack Developer, Front End Developer, Illustrator and a Tech Enthusi
 ![](https://raw.githubusercontent.com/EjuMir/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/EjuMir/github-stats-transparent/output/generated/languages.svg)
 
-### ⏩ &nbsp; Tools I Use
+### 🔧 Technologies & Tools
 <p align='left'>
   <img style="margin-right: 4;" src="https://raw.githubusercontent.com/EjuMir/EjuMir/main/Icons/react_logo-512.webp" alt="React" width="30" height="30">
   <img style="margin-right: 4;" src="https://github.com/EjuMir/EjuMir/blob/main/Icons/MongoDB_Logo.svg.png" alt="MongoDB" width="70" height="30">
