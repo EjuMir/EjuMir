@@ -10,7 +10,7 @@ I am a MERN Stack Developer, Front End Developer, Illustrator and a Tech Enthusi
 <a href="https://linkedin.com/in/mir-eju" target="blank"><img align="center" src="https://raw.githubusercontent.com/EjuMir/EjuMir/main/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" alt="gautamkrishnar" height="40" width="40" /></a>
 
 ### 📕 &nbsp; GitHub Stats 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=EjuMir&bg_color=30,000435,FFFFFF&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EjuMir&bg_color=30,000435,000000&title_color=fff&text_color=fff)
 ![](https://raw.githubusercontent.com/EjuMir/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/EjuMir/github-stats-transparent/output/generated/languages.svg)
 
