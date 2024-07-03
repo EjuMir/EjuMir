@@ -18,7 +18,7 @@ I am a MERN Stack Developer, Front End Developer, Illustrator and a Tech Enthusi
 <p align='left'>
   <img src="https://raw.githubusercontent.com/EjuMir/EjuMir/main/Icons/react_logo-512.webp" alt="React" width="30" height="30">
   <img src="https://github.com/EjuMir/EjuMir/blob/main/Icons/MongoDB_Logo.svg.png" alt="MongoDB" width="70" height="30">
-  <img src="https://raw.githubusercontent.com/EjuMir/EjuMir/main/Icons/javascript-logo-javascript-icon-transparent-free-png.webp" alt="JavaScript" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/EjuMir/EjuMir/main/Icons/javascript-logo-javascript-icon-transparent-free-png.webp" alt="JavaScript" width="40" height="30">
   <img src="https://github.com/EjuMir/EjuMir/blob/main/Icons/1280px-Node.js_logo.svg.png" alt="Node Js" width="70" height="30">
   <img src="https://github.com/EjuMir/EjuMir/blob/main/Icons/Firebase_Logo.png" alt="Firebase" width="70" height="30">
   <img src="https://raw.githubusercontent.com/EjuMir/EjuMir/main/Icons/expressjs_logo_icon_169185.webp" alt="ExpressJs" width="40" height="30">
