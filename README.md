@@ -5,3 +5,9 @@ I am a MERN Stack Developer, Front End Developer, Illustrator and a Tech Enthusi
 - 🔭 &nbsp;I’m currently working on something cool
 - 🌱 &nbsp;I’m currently learning Next Js
 - 💬 &nbsp;Ask me about anything related to React/Javascript/MongoDB or Firebase/NodeJS/ExpressJS/HTML/CSS
+
+### 📕 &nbsp; GitHub Stats 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EjuMir&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/EjuMir/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/EjuMir/github-stats-transparent/output/generated/languages.svg)
